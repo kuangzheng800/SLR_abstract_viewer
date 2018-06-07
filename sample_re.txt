@@ -1,0 +1,2 @@
+[^A]UC[^\w],ulcerative colitis,real,outcome,IBD,glm ,golimumab,biologic
+IBD, children,RCT,trial,p(a)?ediatric
