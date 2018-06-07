@@ -6,6 +6,7 @@ Abstract viewer for SLR files
 - Read csv files for literature review abstracts
 - Locate paper indexed by reference ID (**Column needs to be named 'Ref'**)
 - Hightlight text with two colors, supportive of regular expression
+- Shortcuts for moving up and down literature entries
 
 ## Dependancies:
 - TKinter
